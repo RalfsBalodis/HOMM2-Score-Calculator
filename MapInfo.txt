@@ -1,0 +1,97 @@
+Alteris;L;Hard;With your realm destroyed by undead, the only way to gain enough power to drive them back someday is to capture castle Visimir!!!!
+Alteris2;L;Expert;You have captured the Barbarian lands, and now you prepare for the war against the Undead armies.  But, the Death King has not been Idle!
+Arrax the Jerk;S;Normal;Overthrow House Arrax, and establish your own Tyrannical Empire.  Find the secret treasures hidden about the landscape.
+Beltway;M;Normal;A balanced scenario with lots of resources and land to explore.
+Betrayal;XL;Normal;Your diplomats have been attacked... this means war!
+Black Forest;L;Normal;Four lords vie for control of a forestland full of dragons and vagabonds.  Oracle tourn. version.  Re-edited by maker.
+Broken Alliance;M;Normal;The alliance has crumbled and all are at war. Lots of resources but little time to prepare.
+Carmine;M;Normal;Your brother Carmine has long since moved away, but now he has been attacked and needs your help.  Team up with him to defeat the Red player!
+Clouds of Xeen;XL;Hard;Cloudside of World of Xeen. Explore this vast land and defeat the evil Lord Xeen to be proclaimed the supreme ruler. Based on Might & Magic 4.
+Colossal Cavern;XL;Easy;Explore the underworld and conquer its inhabitants. Save your village and build an empire in the dungeons below. All you need is cash!
+Dead Dragons;XL;Hard;An evil sorceress has discovered a source of great power in the land, and she is harnessing it from her home stronghold, the Nest.
+Deathgate;M;Hard;Capture the necromancer's dreaded castle "Death Gate" and free the land from the undead plague.
+Decisions;L;Expert;Your town is undefended and your heroes are scattered.  Do you attack or defend?
+Dominion;XL;Normal;The King is dead, his kingdom has been shattered, and six leaders seek to seize power for themselves.
+Dragon's Eye;M;Normal;Your castle, founded inside the center of a mile wide crater, is besieged by those who desire your mineral wealth.
+Dragon Rider;M;Normal;While away seeking the Ultimate Artifact, Kastor's kingdom is invaded!
+Dragon Wars;XL;Hard;Three Warlocks in the land of Dragons. Lose thy home and all will be lost. Conquer thy enemies and the land shall forever be yours!
+Dungeon Below;S;Normal;The Wizards and the Warlocks are fighting over control of a mysterious dungeon just discovered.
+Enroth;L;Normal;The land of Heroes II.
+Family Reunion;M;Hard;Dracor has broken from his bounds and seeks to control the kingdom. Worse, his children want to join in the fun as well!
+Fool's Gold;M;Normal;A chance to end a bitter war has finally arrived as a new resource-laden land has been discovered.
+For Honor;M;Hard;The Red Tide of War rolls North.  Stopping the flood seems hopeless.  Yet, Honor demands you and your ally die trying.
+Forsaken Lands;M;Hard;A legion of peasants stands between you and this unclaimed island.
+Fortress Isle;L;Normal;Four players must work together to assault the Wizards' Stronghold.
+Full House;XL;Easy;Start with five castles!  How could you lose!?  Oh yeah, everyone else starts with five, too.
+Gates of Hell;XL;Expert;The guardians of the Gates of Hell have been lured into a trap!  Can they free their forces in time?  A 2-player alliance scenario.
+Ghost Planet 1.1;XL;Normal;You crash land on a haunted world where all your Might & Magic may not save you. When the Undead rule, how can you stay "alive" on ...Ghost Planet?
+Go Ask Alice...;M;Normal;Wonderland Chess... Heroes Style.  This is for the Red (Warlock) Player.
+Good vs. Evil;L;Normal;The Gods have given you 6 months to prove yourself. Good or Evil - who shall prevail? (Blue,Green and Red vs Yellow, Orange and Purple)
+Greed;M;Hard;After centuries of friendship, the Wizards have suddenly decided to stop sharing their Library with the rest of the world.  This can't be good!
+Grim Reaper;XL;Hard;Death himself is attempting to turn your entire world into a place more befitting his tastes.
+Ground Zero;M;Normal;The four factions race to capture a mystical castle.
+Great War II;XL;Normal;The lands were at peace for a long time, but now once again good and evil vie for supremacy.
+Guardian War;M;Normal;You and your ally's families were given custody of The Isle of Knowledge.  Other Lords feel the time has come for new guardians...
+Heroes;L;Normal;Five heroes vie for control of a familiar land.
+Hot Spot;M;Hard;When you're ready, take the teleport to the Island's Hot Spot!
+Hail Unicorns!;M;Normal;This twisted maze of sorceress towns has three factions struggling for sole control.  Use your resources wisely!
+Isle Maze;M;Normal;Remember, you're searching for the Ultimate Artifact... don't get distracted!
+King of Death;S;Normal;Find and destroy the evil beings who rule the wastelands.
+Last Hope;S;Expert;They've finally cornered you into this infernal swamp.  Now its just you, some crusaders, and this last outpost of goodness against THEM.
+Leopoldville;XL;Normal;Leopoldville- A city gone mad since the crown disappeared.  Can you retrieve it and bring order back to the city?
+Lost Continent;XL;Hard;Six factions have established a foothold on a huge, unexplored continent.  Can you eliminate the other five?
+Lost Relic;M;Normal;The gods have granted this world a great artifact, to find it means victory.
+Ludicrosity;M;Hard;               What the?>>>                                                                                                                (note... read accompanying text file before playing..)
+Magic Three;M;Easy;Seek out the Ultimate Artifact to be victorious in this strangely shaped land.
+Merry Men;M;Normal;The sheriff has seized your lands and relocated you to one of his former holdings.
+Might vs. Magic;L;Normal;Play the Knight or Barbarian in an alliance in this classic duel against the four spell casters. (Blue and Green vs Red)
+Mineral Wars;M;Hard;All mines are grouped by type. Trade is your only hope.
+Mire Straits;M;Normal;Your opponent lays beyond the straits.  But a common adversary controls the water ways.
+Mountain king;M;Normal;It's windy at the top.  Defend, Divide, and Conquer.
+New Enemies;M;Normal;With the year long eruption of Mt. Kitisland, your three worst enemies now have a ground bridge to your eastern continent.
+North vs. South;M;Normal;It's a battle for supremacy as the Blue and Green heroes take on Red and Yellow in team competition!
+Overlord;M;Normal;The Overlord has given you 4 months to conquer this land or deliver to him the sum of 150,000 gold.
+Pandemonium;S;Hard;The King will sell you this land for 200,000 gold or you can take it by force. The choice is yours.
+Peasants;M;Normal;Help peasant farmers regain their castle and land, else they'll take your crops.
+Pirate Utopia;XL;Expert;The Fortune of Infamous Uae was buried on one of these islands. She died without ever revealing it.  Find it before the other cutthroats.
+Plains of Aekon;XL;Normal;Each side has a single stronghold, and resources are scarce.  But real power can be found in the sinewy seas which divide the lands...
+Portals;M;Normal;You can only reach your enemies via teleporters, but each jump is a leap of faith.
+Pyramid;M;Expert;Your opponents are allied against you and each is twice as powerful as his predecessor! Is it possible to win?
+Quadruplets;M;Normal;Astral Wizard HOMM2 League.  Alliance Competition.  Expansion Map.  Created by Timothy Duncan (tduncan(a)haverford.edu)
+The Road Home;L;Normal;A mighty army awaits you at home... but can you reach it before your enemies reach you?
+Revolution;L;Hard;You've ruled with an iron fist (and an army of undead), but now your kingdom has turned against you!
+Riddle Me This...;XL;Normal;The land is torn apart by civil war and other evils.  Conquer your enemies and be the first to find the Great Crown or fail the good people of the land.
+River Crossing;S;Hard;Your castle is the last outpost in the area, Don't lose it! 
+Roc 'Round the ..;M;Normal;Roc Round the Clock - a High -Flying Quest with the Wizard's Feathered Friends. The other Magicians will just  have to wing it!
+Sands of Time;M;Normal;A desert isle rich in resources rewards the quick.  Just be sure to watch your back!
+Scorched Earth;M;Hard;An enemy from across the sea has seized half your towns.  Can you put aside your own feud with your brother to fight this common enemy?
+Seasons Change;M;Normal;None of the four leaders like being stuck in a land that has only one season. 
+Seven Lakes;L;Normal;Plenty of resources and lots of ground to cover. Watch out for Orange and Purple!
+Shipwrecked!;M;Hard;Your expedition has taken a turn for the worse... you now have no way to get home!
+Sharkania;M;Normal;Four kingdoms race to capture the island of Sharkania.
+Skirmish;S;Normal;You will clash quickly on this small head-to-head map, so stay on your toes!
+Slayer Legacy;XL;Normal;The children of Lord Slayer try to rebuild his empire, and retrieve his remains from the Arena in the North.
+Slugfest;S;Normal;Six heroes with large armies prepare to slug it out for total domination!
+Spell Casters;M;Normal;The four spell casters face off with substantial starting armies. Can the crusaders keep the peace?
+Sudden Siege;XL;Hard;The liths seemed a good idea at the time.  Now they're nothing but a dangerous nuisance.  Can you survive these sudden sieges???
+Surf and Turf;XL;Normal;More water than land, you'll still spend lots of time on foot as you search a literal horde of islands.
+Teleporters;L;Normal;For a total of 400,000 gold your opponents will become "loyal" subjects, otherwise... let them eat cake!
+Terra Firma;M;Expert;A wild magic has allowed a bridge to form between two lands...  Your one hope is to capture castle "Black Fang".
+Terrain Wars;L;Normal;This rugged land will have rivals fighting the terrain as well as each other.
+The Back Door;S;Easy;Many guardians stand between you and your enemies, but anybody can sneak through the back door!
+The Clearing;S;Normal;Find the Ultimate Artifact and be proclaimed King, or smash the opposition and take control.
+The Other Side;S;Normal;A resource rich valley keeps the Wizard and the Necromancer apart. Your opponent's army will arrive in 3 months so hurry.
+Threedom;M;Hard;Astral Wizard HOMM2 League Slugfest Competition.  Expansion Map.  Created by Timothy Duncan (tduncan(at)haverford.edu)
+THUNK;L;Expert;The Sequel to Last Hope.  After his previous struggle, Corribus decides to take a vacation down the Calamazar River.  Big mistake...
+Undead Armies;M;Normal;A plague of undead is upon us. Who will unite the living against the dead?
+Unholy Alliance;M;Easy;A Knight and Necromancer team up against the Barbarian and Sorceress. (Blue and Green vs Red and Yellow)
+Valley of Death;M;Expert;You have six months to destroy the Necromancer Stronghold in the heart of the valley.
+Vikings!;M;Hard;Barbarians from the north threaten all civilization. Can you repel the hordes?
+Warrior Knight;L;Normal;Pick one of four Knights in this large and inhospitable land.
+Wastelands;M;Hard;The Barbarian's lands are being invaded. Are you strong enough to resist the invasion?
+Who am I?;M;Expert;A stranded Wizard with only a small force must conquer an entire continent of hostile forces.
+Winterlands;L;Normal;A large map with lots of resources and treasure. Exploration and victory will require many heroes.
+Witch Hunt;L;Normal;You must search the world for your mortal enemy, Wilgatus.  Can you find him before its too late?
+Wizard's Land 1;M;Expert;You have been apprenticed to your master for years, but now you've found out that he has sinister plans for you.
+Wizard's Land 2;S;Expert;You've ruled your land well, but now the brother of your long-dead master has come to visit, and he is not happy with you.
+Wizard's Land 3;S;Expert;Your kingdom has been placed in a magical stasis, and you must find out who's behind it.                                                      (dedicated to Princess Diana)
