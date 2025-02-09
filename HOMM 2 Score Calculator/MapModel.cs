@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 
 namespace HOMM_2_Score_Calculator
 {
@@ -18,8 +16,8 @@ namespace HOMM_2_Score_Calculator
         {
             MapName = name;
             MapSize = size.ToUpper();
-            MapDifficulty = difficulty[0].ToString().ToUpper() + difficulty.Remove(0,1).ToLower();
-            
+            MapDifficulty = difficulty[0].ToString().ToUpper() + difficulty.Remove(0, 1).ToLower();
+
             MapDescription = description;
             MapFileName = mapfilename;
             switch (size)

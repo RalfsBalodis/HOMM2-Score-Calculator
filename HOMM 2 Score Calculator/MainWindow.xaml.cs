@@ -1,7 +1,6 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Windows;
-using System.Windows.Documents;
 using System.Windows.Input;
 
 namespace HOMM_2_Score_Calculator

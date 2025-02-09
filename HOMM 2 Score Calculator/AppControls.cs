@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Windows.Markup.Localizer;
+
 
 namespace HOMM_2_Score_Calculator
 {
@@ -20,7 +20,7 @@ namespace HOMM_2_Score_Calculator
             {
                 foreach (MapModel map in MapModel.Maps)
                 {
-                    output.Add($"{ map.MapName };{ map.MapSize };{ map.MapDifficulty };{ map.MapDescription };{ map.MapFileName }");
+                    output.Add($"{map.MapName};{map.MapSize};{map.MapDifficulty};{map.MapDescription};{map.MapFileName}");
                 }
                 File.WriteAllLines("MapInfo.txt", output);
                 return returnbool;

@@ -43,12 +43,12 @@ namespace HOMM_2_Score_Calculator
 
                 else
                 {
-                    _ = MessageBox.Show($"{ mapfilename } as \"{ mapName}\" is already in the list!");
+                    _ = MessageBox.Show($"{mapfilename} as \"{mapName}\" is already in the list!");
                 }
             }
             else
             {
-                _ = MessageBox.Show($"{ mapfilename } is not a valid HOMM2 map!");                
+                _ = MessageBox.Show($"{mapfilename} is not a valid HOMM2 map!");
             }
             return returnindex;
         }
